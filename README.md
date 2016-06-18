@@ -47,31 +47,25 @@ Now you know why Google Docs have auto save.
 
 ### 7 Bad developer biases
 
--Bias Blind Spot
+- Bias Blind Spot
 Not compensating for one's own cognitive bias. You can knock this over if you acknowledge that you have biases.
 
 - Professional Bias
-
 The tendency to look at things according to conventions of one's own profession. While putting your solutions use more terminology that general users understand rather than your own technical jargons.
 
 - Semmelweis Reflex
-
 The tendency to reject new evidence that contradicts an established paradigm. Have an open mind to new ideas and suggestions in order to get away from this reflex.
 
 - Bandwagon effect
-
 The tendency to do things because many other people do the same. Through forums or communities senior developers actually influence many people at once. Always ask why in order to get away from this bias.
 
 - Confirmation Bias
-
 The tendency to search for or interpret information in a way that confirms one's preconceptions. This comes when you have strong opinion about something and then you search for and filter information based on what you believe. It is ok to admit that we have our own opinions and ideas, but you should be open to evaluate other ideas.
 
-- Status Quo Bias 
-
+- Status Quo Bias
 The tendency for people to like things to stay relatively the same. Key to overcome this is to step out of your comfort zone and look to what is outside.
 
 - Reactance
-
 The urge to do opposite of what someone wants you to do. Because of a perception of losing control.
 
 
