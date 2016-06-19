@@ -149,7 +149,16 @@ and UI conventions of Apple, Google and Microsoft for Mobile apps. You should re
 
 - Reality -> Improving the user experience is a continual and iterative process. The earlier you start in development process, the better the results are.  Try incremental improvement of user experience.
 
+## Hacking the User's Experience
 
+We would be targeting incremental user experience improvement here. The goal is to lower cognitive friction.
+
+1. **Shapes Hack** - Let's make our UIs easy for the brain to de construct, by using shapes. 
+ - The brain loves easy to see shapes.
+ - Central vision is a high brain CPU resource.
+ - Peripheral vision is a low brain CPU resource.
+ - If user has to visually scan our UI to understand it, the cognitive friction would be high.
+ - If user's brain can break our UI down to big shapes, the cognitive friction would be LOW.
 	
 
 
