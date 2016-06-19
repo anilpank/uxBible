@@ -157,8 +157,11 @@ We would be targeting incremental user experience improvement here. The goal is 
  - The brain loves easy to see shapes.
  - Central vision is a high brain CPU resource.
  - Peripheral vision is a low brain CPU resource.
- - If user has to visually scan our UI to understand it, the cognitive friction would be high.
- - If user's brain can break our UI down to big shapes, the cognitive friction would be LOW.
+ - If user has to visually scan our UI to understand it, the cognitive friction would be high.  ![alt text](https://github.com/anilpank/uxBible/blob/master/img/badshapes.PNG "UI needing lot of visual scanning")
+
+
+ - If user's brain can break our UI down to big shapes, the cognitive friction would be LOW. ![alt text](https://github.com/anilpank/uxBible/blob/master/img/GoodShape.PNG "UI using big Shapes")
+ 
 	
 
 
