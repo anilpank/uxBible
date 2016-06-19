@@ -153,7 +153,7 @@ and UI conventions of Apple, Google and Microsoft for Mobile apps. You should re
 
 We would be targeting incremental user experience improvement here. The goal is to lower cognitive friction.
 
-1. **Shapes Hack** - Let's make our UIs easy for the brain to de construct, by using shapes. 
+1. **SHAPES HACK** - Let's make our UIs easy for the brain to de construct, by using shapes. 
  - The brain loves easy to see shapes.
  - Central vision is a high brain CPU resource.
  - Peripheral vision is a low brain CPU resource.
@@ -162,7 +162,13 @@ We would be targeting incremental user experience improvement here. The goal is 
 
  - If user's brain can break our UI down to big shapes, the cognitive friction would be LOW. ![alt text](https://github.com/anilpank/uxBible/blob/master/img/GoodShape.PNG "UI using big Shapes")
  
-	
+
+2. **WHITESPACE HACK** - Let's allow our user brains some respite by using whitespace. Whitespace is the place where brain gets some rest from scanning.
+
+ - A crowded UI requires your user's brain to use central vision which makes cognitive friction very high.
+ - Using whitespace allows your user's brain to use peripheral vision which helps make cognitive friction very low.
+ - It helps user focus on important information.
+ 
 
 
 
