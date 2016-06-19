@@ -169,7 +169,12 @@ We would be targeting incremental user experience improvement here. The goal is 
  - Using whitespace allows your user's brain to use peripheral vision which helps make cognitive friction very low.
  - It helps user focus on important information.
  
-
+3. **GROUPING HACK** - Let's make our UIs easier to understand by grouping elements more effectively. User's brain loves anything structured.
+ - User's brain loves groups.
+ - Grouping, whitespace and shapes hack all work together.
+ - Crowded groups that are too close together require central vision of user's brain and make cognitive friction very high.
+ - Repeating groups without enough visual separation makes cognitive friction high.
+ - Whitespace within and between groups allows user brain to user peripheral vision which helps make cognitive friction low.
 
 
  
