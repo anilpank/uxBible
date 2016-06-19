@@ -99,3 +99,59 @@ The urge to do opposite of what someone wants you to do. Because of a perception
 
 - Coding for edge cases (Working to solve non existent problems)
 
+
+### Top UX Myths
+
+
+- **Myth (1) Counting clicks** -> User never should have to click more than x number of times in order to perform a task.
+
+- Reality -> Users do not have a click counter in their mind. They will click as long as the cognitive friction is low & they are getting closer to their task accomplishment.
+
+- Clicks matter in highly repeatable tasks. But they should be taken care by automation.
+
+- **Myth (2) Whitespace is wasted space** -> User need to be shown as much data as possible. 
+
+- Reality -> User just needs to be shown the information that he needs rather than being bombarded with all the info. Don't make stuff for your mythical power user. Whitespace helps lower cognitive friction, helps the brain process screen more quickly. It helps visual grouping.
+
+- **Myth (3) Scrolling is evil** ->  
+
+- Reality -> User tests show vertical scrolling is not a big deal. Even users that say they hate to scroll do it. But we very careful on horizontal scrolling. 
+
+- **Myth (4) Small details don't matter**  -> If it is good enough and functionality is working as expected just ship it.
+
+- Reality -> Small details can dramatically improve UX. One example is of BestBuy, they changed Register button to Continue button and their sales improved by $300 million in a year. That button is famously called $300 million button. Quality has a skin deep effect on brain.
+
+- **Myth (5) More Choices**  -> Users may want to do this/that. Power users want everything.
+
+- Reality -> More choices present more roadblocks to the users. Choices increase cognitive friction. It slows user down and make UI harder to learn. Users will often say yes to more choices. But as developer you have to be intelligent in stop offering those and give them one 
+really good way to do something.
+
+- **Myth (6) Users make good choices** -> Users know what they need. They'll select right option.
+
+- Reality -> Most decision making is subconscious. Multiple choices paralyze thought process. Then all guess work starts. Low cognitive friction can help influence good choices.
+
+- **Myth (7) Users know what they want** -> Customer is king. They drive features and requirements.
+
+- Reality -> Want != NEED. Users will often request more than what their brains can handle. People are horrible at estimate feature values. Customers need not be treated as Kings but Children.  Find out user's goal in order to idenify their ultimate need.
+
+- **Myth (8) Usability is greater than Beauty** -> Users just care if it's usable. They don't care what it looks like.
+
+- Reality -> Users judge initial quality of an app by it's appearance. Users may abandon them before discovering the good stuff. Good
+visual design lowers emotional friction which improves overall UX. Perception is reality in this case.
+
+- **Myth (9) Let's do it like  Apple, Microsoft, Google, etc** 
+
+- Reality -> Amazon's menu system may not be appropriate for your timesheet application. Don't blindly follow someone else and think loudly 
+about your application.  But it makes sense to match others if you are integrating into their platform.  It is important to use UX
+and UI conventions of Apple, Google and Microsoft for Mobile apps. You should read and follow their guidelines.
+
+- **Myth (10) UX is a project step** -> The code is done. Let's "UX" the UI and ship it.
+
+- Reality -> Improving the user experience is a continual and iterative process. The earlier you start in development process, the better the results are.  Try incremental improvement of user experience.
+
+
+	
+
+
+
+ 
