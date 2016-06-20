@@ -176,5 +176,13 @@ We would be targeting incremental user experience improvement here. The goal is 
  - Repeating groups without enough visual separation makes cognitive friction high.
  - Whitespace within and between groups allows user brain to user peripheral vision which helps make cognitive friction low.
 
+4. ** ALIGNMENT HACK** - Non aligned UI elements are slient UX killers.
+ - Misalignment can make cognitive friction very high.
+ - The brain detects even small misalignments.
+ - There are multiple alignment options available. Choose one and be consistent across all your pages.
+ - Align with reading direction (left aligned with English, right aligned with Hebrew, etc).
+ - You can create alignment scopes by whitespacing and grouping. 
+ - Use center center trick in case of central alignment. For example for a central aligned button, button text should be in center of button.
+ - 
 
  
