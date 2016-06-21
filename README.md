@@ -183,6 +183,17 @@ We would be targeting incremental user experience improvement here. The goal is 
  - Align with reading direction (left aligned with English, right aligned with Hebrew, etc).
  - You can create alignment scopes by whitespacing and grouping. 
  - Use center center trick in case of central alignment. For example for a central aligned button, button text should be in center of button.
- - 
-
+ 
+ 
+ 5. ** Attention Hack ** - Make our UI attract user's attention.
+ - Change blindness issues are very common. Users are so focussed through their central vision, they don't notice that something in UI has changed.
+ - When applying a change, do something to gain user's attention, like making text in bold, having borders around the changed area and so on.
+ - But if the user needs to focus on a specific goal, then you should eliminate any distraction on peripheral vision.
+ - Movement in peripheral vision is very powerful but it has to be used wisely.
+ - If the user focus is needed, movement in peripheral vision will distract, so keep the UI calm.
+ - If user's attention is needed, then use peripheral movement to get attention.
+ - Signal important changes using subtle animations.
+ - Turn off animated ads and live data streams to keep user focus.
+ 
+ 
  
