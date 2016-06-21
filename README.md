@@ -176,7 +176,7 @@ We would be targeting incremental user experience improvement here. The goal is 
  - Repeating groups without enough visual separation makes cognitive friction high.
  - Whitespace within and between groups allows user brain to user peripheral vision which helps make cognitive friction low.
 
-4. ** ALIGNMENT HACK** - Non aligned UI elements are slient UX killers.
+4. **ALIGNMENT HACK** -> Non aligned UI elements are slient UX killers.
  - Misalignment can make cognitive friction very high.
  - The brain detects even small misalignments.
  - There are multiple alignment options available. Choose one and be consistent across all your pages.
@@ -185,7 +185,7 @@ We would be targeting incremental user experience improvement here. The goal is 
  - Use center center trick in case of central alignment. For example for a central aligned button, button text should be in center of button.
  
  
- 5. ** Attention Hack ** - Make our UI attract user's attention.
+ 5. **Attention Hack** -> Make our UI attract user's attention.
  - Change blindness issues are very common. Users are so focussed through their central vision, they don't notice that something in UI has changed.
  - When applying a change, do something to gain user's attention, like making text in bold, having borders around the changed area and so on.
  - But if the user needs to focus on a specific goal, then you should eliminate any distraction on peripheral vision.
