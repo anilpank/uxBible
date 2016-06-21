@@ -200,8 +200,9 @@ We would be targeting incremental user experience improvement here. The goal is 
  - Always red or green on blue background. These combinations raise cognitive as well as emotional friction. These are basically very hard on the eyes.
  - CONTRAST IS CRITICAL. Contrast between text and background color keeps the friction low.
  - It's good to stick to black or white text on color background.
- - Around 5% males are color blind. So take care of them while using colors. It is a good idea to choose ICONS alongwith colors to show error and likewise. Test your UI on Color Blindness simulators.
- - 
+ - Around 5% males are color blind. So take care of them while using colors. 
+ - It is a good idea to choose ICONS alongwith colors to show error and likewise. Test your UI on Color Blindness simulators.
+ 
  
  
  
